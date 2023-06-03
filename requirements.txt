@@ -1,0 +1,4 @@
+tqdm==4.65.0  
+jiwer==3.0.1   
+librosa==0.9.1  
+pandas==2.0.0rc
